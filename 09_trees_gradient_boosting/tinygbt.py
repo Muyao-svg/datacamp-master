@@ -7,6 +7,7 @@ References
 ----------
 [1] T. Chen and C. Guestrin. XGBoost: A Scalable Tree Boosting System. 2016.
 [2] G. Ke et al. LightGBM: A Highly Efficient Gradient Boosting Decision Tree. 2017.
+实现一个极简版本的梯度提升树（Gradient Boosting Tree, GBT）
 '''
 
 import sys
